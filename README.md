@@ -29,6 +29,14 @@ The dataset used is the **Grid Corpus (Pre-Processed)**. It is pre-processed spe
 
 A Streamlit app is included to provide a user-friendly interface for demonstrating how the model works. All the necessary files for running the app are provided in this repository.
 
+## Images
+
+![Screenshot 2024-07-11 114510](https://github.com/aaranayaadi/LipReadingNeuralNetwork/assets/37096846/bb21ba1a-84db-45cd-969e-c396a924e675)
+![Screenshot 2024-07-11 114523](https://github.com/aaranayaadi/LipReadingNeuralNetwork/assets/37096846/9ab63645-3fc8-42cd-a68b-d24531f1f79e)
+![Screenshot 2024-07-11 114537](https://github.com/aaranayaadi/LipReadingNeuralNetwork/assets/37096846/156c80c4-660a-4717-8c85-1f141a5734bc)
+![Screenshot 2024-07-11 114602](https://github.com/aaranayaadi/LipReadingNeuralNetwork/assets/37096846/f4fc6900-081a-4f5d-98a4-fed3a7c3d83e)
+
+
 ## Running the Model
 
 To run and test the model, follow these steps:
